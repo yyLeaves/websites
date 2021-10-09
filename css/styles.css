@@ -1,14 +1,24 @@
+body {
+  text-align: center;
+}
+
 table, th, td {
   border: 1px solid;
   border-collapse: collapse;
+  text-align: center;
   margin: auto;
+}
+
+caption {
+  caption-side: bottom;
+  padding: 5% 0;
+  text-align: justify;
 }
 
 td {
   padding: 0 10px;
-  text-align: center;
 }
 
-h1 {
-  text-align: center;
+em {
+  color: blue;
 }
