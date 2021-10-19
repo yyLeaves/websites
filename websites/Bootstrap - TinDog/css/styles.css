@@ -149,7 +149,7 @@ background-color: white;
 /* Footer Section */
 
 @media (max-width: 1080px) {
-  #title {
+  #title, .big-heading {
     text-align: center;
   }
 
