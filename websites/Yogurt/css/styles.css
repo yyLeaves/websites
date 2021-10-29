@@ -1,0 +1,39 @@
+/* font-family: 'Abril Fatface', cursive;
+font-family: 'Open Sans', sans-serif; */
+body {
+    background-image: linear-gradient(to bottom right ,#2AF598, #08AEEA);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.drop-shadow {
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.164)
+}
+
+.lead {
+    color: #fff;
+    font-size: 2.2rem;
+}
+
+.yogurt-btn {
+    font-weight: bold;
+}
+
+.yogurt-btn:hover {
+    background-color: rgba(255, 255, 255, 0.198);
+    color: #3F4A5C;
+}
+
+.card-btn {
+    background-color: #08AEEA;
+    border-color: #fff;
+}
+
+.card-btn:hover {
+    background-color: #2AF598;
+    border-color: #fff;
+}
